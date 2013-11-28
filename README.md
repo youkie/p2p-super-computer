@@ -11,4 +11,4 @@ This project is going to develp a P2P core for any P2P applications. This is an 
 
 2.THE P2P OS CPU usage
 
-2.The P2P OS RAM usage
+3.The P2P OS RAM usage
